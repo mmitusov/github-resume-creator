@@ -19,7 +19,7 @@ const Repositories = ({prop}) => {
           <p className="text-start fs-2 fst-italic fw-bold">Repositories</p>          
         </Col>
         <Col className="text-start fs-4 fw-normal lh-base">          
-          {repositories.slice(0, 5).map((repo) => //Get first 5 repos
+          {repositories.slice(0, 5).map((repo) =>
             <OneRepositorie prop={repo}/>
           )}           
         </Col>
