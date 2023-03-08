@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github-resume-creator/static/css/main.bfceaad1.css",
+    "main.js": "/github-resume-creator/static/js/main.c82959ff.js",
+    "index.html": "/github-resume-creator/index.html",
+    "main.bfceaad1.css.map": "/github-resume-creator/static/css/main.bfceaad1.css.map",
+    "main.c82959ff.js.map": "/github-resume-creator/static/js/main.c82959ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfceaad1.css",
+    "static/js/main.c82959ff.js"
+  ]
+}
